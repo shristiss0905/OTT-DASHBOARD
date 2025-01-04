@@ -26,6 +26,8 @@ SecurityBindings: Configures security settings for data access control.
 
 Usage
 
+Download the excel files for the data to practice.
+
 Download the PBI4.pbix file.
 
 Open it in Power BI Desktop.
